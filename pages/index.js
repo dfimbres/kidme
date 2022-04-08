@@ -15,6 +15,9 @@ export default function Home() {
           Welcome to <a href="https://islands.xyz/@kidme/gallery">kidme.eth 🏝</a>
         </h1>
 
+        <p>I actually have a fully decentralized version of this site that can be found here <a href='https://kidme.eth.link/'>kidme.eth.link</a></p>
+        <p>It usually takes awhile to load though, read about it here in my <a href='https://mirror.xyz/kidme.eth/-THEORGnnwAHLuB4quKYCv1PhctNhjOLIHpVHvsXnHk'>article</a></p>
+
         <h1 className={styles.description}>Hello my name is David a Fullstack Web Developer</h1>
         <div className={styles.grid}>
           <a href="https://mirror.xyz/kidme.eth" className={styles.card}>
